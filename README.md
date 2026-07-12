@@ -1,4 +1,4 @@
-# Loan_Default_Risk_Prediction
+
 # Loan Default Risk Prediction
 
 Predicting whether a loan applicant will face payment difficulties, using the [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) dataset from Kaggle.
